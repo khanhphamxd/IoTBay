@@ -1,0 +1,66 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 8 Apr 2023, 11:28:26 pm
+    Author     : zhangyao
+*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F4F4F4;
+}
+
+/* Header Styles */
+h1 {
+  text-align: center;
+  color: #2F2F2F;
+  margin-top: 50px;
+}
+
+/* Table Styles */
+#profile_table {
+  margin: 0 auto;
+  width: 60%;
+  border-collapse: collapse;
+  margin-top: 50px;
+  box-shadow: 0px 0px 10px #AAAAAA;
+}
+
+#profile_table th {
+  background-color: #2F2F2F;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+#profile_table td {
+  padding: 10px;
+}
+
+/* Button Styles */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2F2F2F;
+  color: #FFFFFF;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #545454;
+}
+
+/* Panel Styles */
+.panel_div {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.panel_div a {
+  color: #FFFFFF;
+}
